@@ -33,6 +33,8 @@
 
 
 
+## 네트워크 액세스 제어: NACL, 보안 그룹
+
 #### 퍼블릭 서브넷과 프라이빗 서브넷
 
 - 게이트웨이에 대한 액세스 관리
@@ -64,6 +66,30 @@
 - 상태 저장 패킷 필터링
   - 이전의 패킷에 대한 허용/거부 여부를 기억한다.
 - `건물 경비원`
+
+
+
+## 글로벌 네트워킹
+
+#### Route 53
+
+- DNS 서비스
+  - 도메인 네임과 IP주소 번역
+- 라우팅 정책을 이용한 적절한 IP 엔드포인트로 라우팅
+  - 엣지 로케이션 사용으로 근접성 제공
+- 도메인 이름을 등록하는데도 사용
+
+
+
+
+
+### 추가 자료
+
+- [AWS의 네트워킹 및 콘텐츠 전송](https://aws.amazon.com/products/networking)
+- [Amazon 네트워킹 및 콘텐츠 전송 블로그](https://aws.amazon.com/blogs/networking-and-content-delivery/)
+- [Amazon Virtual Private Cloud](https://aws.amazon.com/vpc)
+- [Amazon VPC란 무엇입니까?](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
+- [Amazon VPC 작동 방식](https://docs.aws.amazon.com/vpc/latest/userguide/how-it-works.html)
 
 
 
