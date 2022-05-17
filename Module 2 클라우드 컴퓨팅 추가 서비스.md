@@ -41,7 +41,8 @@
 - 주문 사항을 구독자에게 전달하도록 알림을 게시하는 서비스이다.
 - 구독자는 웹 서버, 이메일 주소, lambda함수 등이 될 수 있다.
 
-
+#### Amazon SMS (Simple Mailing Service)
+- 비슷하지만 메일을 보내는 서비스
 
 ### 참고: `serverless` vs `EC2`
 
