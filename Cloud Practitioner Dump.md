@@ -11,7 +11,7 @@ Which AWS service or feature enables the establishment of a dedicated network co
 - C. AWS VPN
 - D. Amazon Route 53
 
-D
+A
 
 #### 2
 
