@@ -1,0 +1,23 @@
+1 correct:  C            my:  B
+2 correct:  B            my:  A
+6 correct:  C            my:  A
+15 correct:  A           my:  B
+17 correct:  A, D                my:  D, E
+23 correct:  C           my:  B
+25 correct:  C           my:  D
+28 correct:  B           my:  A
+29 correct:  D           my:  A
+31 correct:  A           my:  B
+33 correct:  B           my:  C
+36 correct:  C, E                my:  E
+40 correct:  A, D                my:  A, B
+43 correct:  A           my:  D
+49 correct:  A, E                my:  A, D
+58 correct:  C           my:  D
+59 correct:  B           my:  C
+64 correct:  D           my:  B
+65 correct:  D, E                my:  B, D
+67 correct:  B, D                my:  D, E
+==================================================
+total wrong answer:  21
+accuracy: 70.00%

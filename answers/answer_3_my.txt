@@ -1,0 +1,70 @@
+D
+B
+A
+C
+B
+B
+A
+A, C
+C
+C
+B
+C
+B, E
+D
+C
+B
+B
+D, E
+D
+A
+C
+B
+D
+B
+C
+D
+A
+C
+A
+A
+C
+B
+C
+C
+D
+B, E
+E
+A
+C
+C, E
+A, B
+C
+B
+D
+C
+C
+C
+D
+B
+A, D
+D
+A
+B
+B
+B
+C
+A
+D
+D
+C
+D
+A
+C
+B
+B
+B, D
+D
+D, E
+B, C
+B
