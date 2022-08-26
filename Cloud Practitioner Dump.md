@@ -11,7 +11,10 @@ Which AWS service or feature enables the establishment of a dedicated network co
 - C. AWS VPN
 - D. Amazon Route 53
 
+<details>
+<summary>정답</summary>
 A
+</details>
 
 #### 2
 
@@ -22,7 +25,10 @@ Which of the following enables an application running on an Amazon EC2 instance 
 - C. AWS IAM role
 - D. AWS IAM user access key
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 3
 
@@ -33,7 +39,10 @@ Which AWS security service protects applications against distributed denial of s
 - C. Elastic Load Balancing (ELB)
 - D. AWS Shield
 
+<details>
+<summary>정답</summary>
 D
+</details>
 
 #### 4
 
@@ -44,7 +53,10 @@ What are the advantages of utilizing Amazon Web Services managed services such a
 - C. They simplify patching and updating underlying OSs.
 - D. They do not require the customer to optimize instance type or size selections.
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 5
 
@@ -57,7 +69,10 @@ Which AWS service should the business use to offload requests to the database an
 - C. Elastic Load Balancing
 - D. AWS Global Accelerator
 
+<details>
+<summary>정답</summary>
 B
+</details>
 
 #### 6
 
@@ -68,7 +83,10 @@ Which AWS service level agreement includes a dedicated Technical Account Manager
 - C. Business
 - D. Basic
 
+<details>
+<summary>정답</summary>
 B
+</details>
 
 #### 7
 
@@ -79,7 +97,10 @@ Which of the following Reserved Instance (RI) pricing schemes results in the gre
 - C. Three-year, All Upfront, Standard RI pricing
 - D. Three-year, No Upfront, Convertible RI pricing
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 8
 
@@ -90,7 +111,10 @@ Which component of the AWS global infrastructure is comprised of one or more dis
 - C. Edge locations
 - D. Amazon CloudFront
 
+<details>
+<summary>정답</summary>
 B
+</details>
 
 #### 9
 
@@ -101,7 +125,10 @@ Which AWS service is used to pay AWS bills, track consumption, and manage budget
 - C. Amazon CloudWatch
 - D. Amazon QuickSight
 
+<details>
+<summary>정답</summary>
 A
+</details>
 
 #### 10
 
@@ -112,7 +139,10 @@ Which AWS service or feature optimizes network performance by routing traffic ac
 - C. AWS Global Accelerator
 - D. Amazon VPC
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 11
 
@@ -123,7 +153,10 @@ Which of the following Amazon EC2 pricing structures enables users to leverage p
 - C. Dedicated Hosts
 - D. On-Demand Instances
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 12
 
@@ -134,7 +167,10 @@ Which of the following benefits is accessible for Convertible Reserved Instances
 - C. The instances can be changed to a different Availability Zone.
 - D. The instances can be changed to a different AWS Region.
 
+<details>
+<summary>정답</summary>
 B
+</details>
 
 Convertible Reserved Instance can change the EC2 instance type, instance family, OS, scope and tenancy
 
@@ -147,7 +183,10 @@ Which of the following services is a MySQL-compatible database that expands stor
 - C. Amazon Lightsail
 - D. Amazon Aurora
 
+<details>
+<summary>정답</summary>
 D
+</details>
 
 #### 14
 
@@ -158,7 +197,10 @@ What is the MINIMUM level of AWS Support that includes dedicated Technical Accou
 - C. Developer
 - D. Basic
 
+<details>
+<summary>정답</summary>
 A
+</details>
 
 #### 15
 
@@ -169,7 +211,10 @@ Which of the following relationships between regions, Availability Zones, and ed
 - C. Availability Zones contain edge locations.
 - D. Edge locations contain regions.
 
+<details>
+<summary>정답</summary>
 B
+</details>
 
 #### 16
 
@@ -180,7 +225,10 @@ What is the AWS customer's share of duty under the AWS shared responsibility mod
 - C. Secure disposal of storage devices
 - D. Environmental risk management
 
+<details>
+<summary>정답</summary>
 B
+</details>
 
 #### 17
 
@@ -191,7 +239,10 @@ What is the MINIMUM AWS Support plan level that provides access to the AWS Suppo
 - C. Business
 - D. Basic
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 18
 
@@ -202,7 +253,10 @@ Which AWS service allows customers to monitor for certain words, values, or patt
 - C. AWS CloudTrail
 - D. Amazon CloudWatch Logs
 
+<details>
+<summary>정답</summary>
 D - With CloudWatch Logs, you can monitor your logs, in near real time, for specific phrases, values or patterns
+</details>
 
 #### 19
 
@@ -213,7 +267,10 @@ Which AWS service or resource facilitates the connection of on-premises applicat
 - C. Amazon S3
 - D. AWS Snowball Edge
 
+<details>
+<summary>정답</summary>
 B - 참고로 storage gateway, cloudtrail logs, s3 glacier는 aws kms로 자동으로 encrypt된다.
+</details>
 
 #### 20
 
@@ -224,7 +281,10 @@ Which Amazon Web Services (AWS) service can notify you when personally identifia
 - C. Amazon Inspector
 - D. AWS Trusted Advisor
 
+<details>
+<summary>정답</summary>
 B
+</details>
 
 #### 21
 
@@ -235,7 +295,10 @@ Which AWS infrastructure deployment model brings AWS computing, storage, databas
 - C. Local Zones
 - D. Edge locations
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 22
 
@@ -246,7 +309,10 @@ What is the customer's obligation while using AWS Lambda?
 - C. Platform management
 - D. Code encryption
 
+<details>
+<summary>정답</summary>
 B (discussion about B & D)
+</details>
 
 #### 23
 
@@ -257,7 +323,10 @@ Which pricing model results in the most savings on Amazon Elastic Compute Cloud 
 - C. Partial Upfront Reserved Instance
 - D. No Upfront Reserved Instance
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 24
 
@@ -268,7 +337,10 @@ Which AWS function or service allows for the collection of data about incoming a
 - C. AWS Trusted Advisor
 - D. AWS CloudTrail
 
+<details>
+<summary>정답</summary>
 B
+</details>
 
 #### 25
 
@@ -279,7 +351,10 @@ Which design principles should be taken into account while architecting for the 
 - C. Design loosely coupled components
 - D. Implement the least permissive rules for security groups
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 D에서 보안그룹은 항상 permissive rule만 설정할 수 있으므로 아니다.
 
@@ -292,7 +367,10 @@ Which AWS service offers suggestions for right-sizing Amazon Web Services (AWS) 
 - C. AWS Service Health Dashboard
 - D. Amazon Forecast
 
+<details>
+<summary>정답</summary>
 B
+</details>
 
 #### 27 :star:
 
@@ -303,7 +381,10 @@ Which AWS service identifies security groups that provide unlimited Internet acc
 - C. AWS Usage Report
 - D. Amazon EC2 dashboard
 
+<details>
+<summary>정답</summary>
 B - performance와 security 관련 굉장히 다양하게 지원함
+</details>
 
 #### 28
 
@@ -316,7 +397,10 @@ Whom should the user first contact in this situation?
 - C. AWS Solutions Architect
 - D. AWS Abuse team
 
+<details>
+<summary>정답</summary>
 D
+</details>
 
 #### 29
 
@@ -327,7 +411,10 @@ How should users go if they want to deploy an application in geographically remo
 - C. Deploy the application to multiple AWS Regions.
 - D. Configure the application using multiple NAT gateways.
 
+<details>
+<summary>정답</summary>
 C - Each AWS Region is designed to be isolated from the other AWS Regions. This design achieves the greatest possible fault tolerance and stability. 문제 뜻이 애매모호함
+</details>
 
 #### 30
 
@@ -338,7 +425,10 @@ Which form of AWS storage is considered ephemeral(하루살이의) and is automa
 - C. Amazon EFS
 - D. Amazon S3
 
+<details>
+<summary>정답</summary>
 B
+</details>
 
 #### 31 :star:
 
@@ -349,7 +439,10 @@ Which AWS container service will assist the customer with the installation, oper
 - C. Amazon Elastic Container Service (Amazon ECS)
 - D. Amazon Elastic Block Store (Amazon EBS)
 
+<details>
+<summary>정답</summary>
 C - Amazon ECS eliminates the need to install, operate, and scale container management infrastructure, and simplifies the creation of environments with familiar AWS core features like Security Groups, Elastic Load Balancing, and AWS Identity and Access Management (IAM).
+</details>
 
 #### 32 
 
@@ -360,7 +453,10 @@ Which Amazon S3 storage class is optimal for providing access to data that has l
 - C. Amazon S3 One Zone-Infrequent Access
 - D. Amazon S3 Glacier
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 33
 
@@ -371,7 +467,10 @@ Which pillar of the AWS Well-Architected Framework is focused on the ability to 
 - C. Operational excellence
 - D. Performance efficiency
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 34 :star:
 
@@ -382,7 +481,10 @@ Which of the following is a software development framework that enables business
 - C. AWS Cloud Development Kit (AWS CDK)
 - D. AWS CodeStar
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 35
 
@@ -395,7 +497,10 @@ Which solution satisfies this criterion?
 - C. Attach the IAM policy to the IAM role containing all the IAM users.
 - D. Apply the IAM policy to the entire AWS account.
 
+<details>
+<summary>정답</summary>
 B
+</details>
 
 #### 36
 
@@ -406,7 +511,10 @@ Which pillar of the AWS Well-Architected Framework requires timely resource prov
 - C. Operational excellence
 - D. Performance efficiency
 
+<details>
+<summary>정답</summary>
 D
+</details>
 
 #### 37
 
@@ -419,7 +527,10 @@ How should the business deploy the EC2 instances in order to satisfy these requi
 - C. Across multiple Availability Zones
 - D. Across multiple AWS accounts
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 38
 
@@ -430,7 +541,10 @@ Which of the Reserved Instance (RI) pricing models allows for modification of th
 - C. Convertible RIs
 - D. Standard RIs
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 39
 
@@ -441,7 +555,10 @@ Which AWS service is used to evaluate the costs of hosting an application on-pre
 - C. AWS Total Cost of Ownership (TCO) Calculator
 - D. Cost Explorer
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 40
 
@@ -452,7 +569,10 @@ Which of the following statements accurately defines a security best practice th
 - C. Grant permissions to users who are required to perform a given task only
 - D. Store AWS credentials within Amazon EC2 instances
 
+<details>
+<summary>정답</summary>
 C - MFA, password policy, remove unnecessary credential, using aws-defined policies possible, groups
+</details>
 
 #### 41
 
@@ -463,7 +583,10 @@ Which AWS service offers a straightforward and scalable shared file storage solu
 - C. Amazon Elastic Block Store (Amazon EBS)
 - D. Amazon Elastic File System (Amazon EFS)
 
+<details>
+<summary>정답</summary>
 D
+</details>
 
 #### 42
 
@@ -474,7 +597,10 @@ How should a user deploy an application across geographically distinct locations
 - C. Deploy the application to multiple AWS Regions.
 - D. Deploy the application by using Amazon CloudFront.
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 43
 
@@ -485,7 +611,10 @@ Which of the following is an Amazon Web Services (AWS) database service?
 - C. Amazon S3 Glacier
 - D. AWS Snowball
 
+<details>
+<summary>정답</summary>
 A
+</details>
 
 #### 44
 
@@ -496,7 +625,10 @@ Utilizing AWS Config to track, audit, and analyze changes to AWS resources in or
 - C. Performance efficiency
 - D. Cost optimization
 
+<details>
+<summary>정답</summary>
 A
+</details>
 
 #### 45
 
@@ -507,7 +639,10 @@ Which AWS service serves as a data extraction, transformation, and loading (ETL)
 - C. AWS Glue
 - D. AWS Elastic Beanstalk
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 46
 
@@ -518,7 +653,10 @@ Which AWS service enables manual instance creation based on resource requirement
 - C. Amazon EC2
 - D. Amazon ECS
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 47 :star:
 
@@ -531,7 +669,10 @@ Which service will meet these criteria?
 - C. AWS Global Accelerator
 - D. Amazon CloudFront
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 Global Accelerator
 
@@ -546,7 +687,10 @@ Which of the following technologies enables a secure network connection between 
 - C. Amazon Virtual Private Cloud (Amazon VPC)
 - D. AWS Mobile Hub
 
+<details>
+<summary>정답</summary>
 A
+</details>
 
 #### 49
 
@@ -559,7 +703,10 @@ Which Amazon EC2 instance pricing model will satisfy these criteria?
 - C. Spot Instances
 - D. Reserved Instances
 
+<details>
+<summary>정답</summary>
 A - 
+</details>
 dedicated hosts: entire physical server in single partition
 dedicated instances - no tenancy with others (can share within my account)
 
@@ -572,7 +719,10 @@ Which AWS Well-Architected Framework pillar incorporates the AWS shared responsi
 - C. Reliability
 - D. Security
 
+<details>
+<summary>정답</summary>
 D
+</details>
 
 #### 51
 
@@ -583,7 +733,10 @@ Which AWS service enables the management of a PostgreSQL database for online tra
 - C. Amazon RDS
 - D. Amazon EMR
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 52 :star:
 
@@ -594,7 +747,10 @@ Which AWS service is intended to assist customers who want to use machine learni
 - C. AWS Deep Learning AMIs (DLAMI)
 - D. Amazon Rekognition
 
+<details>
+<summary>정답</summary>
 A 
+</details>
 
 Comprehend - NLP, find `insights` and `relationships` in text
 
@@ -608,7 +764,10 @@ Which AWS services take use of AWS edge locations? (Select two.)
 - D. Amazon RDS
 - E. Amazon ElastiCache
 
+<details>
+<summary>정답</summary>
 A, B
+</details>
 
 edge location - Route 53, CloudFront, Global Accelerator, Transfer Acceleration
 
@@ -624,7 +783,10 @@ Which of the following BEST describes the Amazon Web Services (AWS) pricing mode
 - D. Planned
 - E. Variable cost
 
+<details>
+<summary>정답</summary>
 B, E
+</details>
 
 #### 55
 
@@ -635,7 +797,10 @@ Which of the following AWS Global Infrastructure components consists of one or m
 - C. Region
 - D. Private networking
 
+<details>
+<summary>정답</summary>
 A
+</details>
 
 #### 56
 
@@ -648,7 +813,10 @@ What costs may be saved by using the AWS Cloud?
 - C. hardware required to support new applications
 - D. Writing specific test cases for third-party applications.
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 57
 
@@ -659,7 +827,10 @@ Which Amazon Web Services offering offers risk audits of an AWS account by monit
 - C. AWS Trusted Advisor
 - D. AWS CloudTrail
 
+<details>
+<summary>정답</summary>
 D
+</details>
 
 `CloudTrail` 이벤트 히스토리, AWS API Call을 바탕으로 규정 준수, 계정활동 감사 수행
 
@@ -672,7 +843,10 @@ Which Amazon RDS feature is most appropriate for achieving high availability?
 - C. Provisioned IOPS storage
 - D. Enhanced monitoring
 
+<details>
+<summary>정답</summary>
 A
+</details>
 
 #### 59
 
@@ -683,7 +857,10 @@ Which AWS service enables the detection of unintentional data breaches including
 - C. Amazon Macie
 - D. AWS Shield
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 60
 
@@ -694,7 +871,10 @@ Which tool allows users who do not have an AWS account to estimate the cost of a
 - C. AWS Budgets
 - D. Simple Monthly Calculator
 
+<details>
+<summary>정답</summary>
 B 
+</details>
 
 `TCO Calculator`는 계정이 없어도 접근 가능
 
@@ -707,7 +887,10 @@ Which Amazon Web Services (AWS) service would you utilize to receive compliance 
 - C. Amazon Inspector
 - D. AWS Certificate Manager
 
+<details>
+<summary>정답</summary>
 A
+</details>
 
 c.f. `codeartifact` 패키지 저장소 / `guardduty` 머신 러닝으로 cloudtrail events, vpc flow, dns, kubernetes audit 로그들을 바탕으로 AWS account 보안 위협 발견, cryptocurrency attack을 방어
 
@@ -720,7 +903,10 @@ Which of the following is an Amazon Web Services (AWS) managed service that is d
 - C. Amazon S3
 - D. AWS Snowball Edge
 
+<details>
+<summary>정답</summary>
 B
+</details>
 
 #### 63
 
@@ -731,7 +917,10 @@ Which of the following is a benefit of AWS's consolidated billing?
 - C. Multiple bills per account
 - D. Eliminates the need for tagging
 
+<details>
+<summary>정답</summary>
 A
+</details>
 
 #### 64
 
@@ -742,4 +931,7 @@ Which AWS service notifies customers when an AWS event may have an effect on the
 - C. AWS Trusted Advisor
 - D. AWS Infrastructure Event Management
 
+<details>
+<summary>정답</summary>
 A
+</details>

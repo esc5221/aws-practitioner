@@ -11,7 +11,10 @@ Which AWS service should the organization utilize to ensure that its EC2 instanc
 - C. AWS Config
 - D. AWS Trusted Advisor
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 2
 
@@ -22,7 +25,10 @@ Which of the following is a managed computing service provided by AWS?
 - C. AWS Lambda
 - D. Amazon Aurora
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 ### 3
 
@@ -33,7 +39,10 @@ Which service should be utilized to determine the expenses associated with launc
 - C. AWS Cost Explorer API
 - D. AWS Budgets
 
+<details>
+<summary>정답</summary>
 B
+</details>
 
 pricing calculator는 architecture에 대해 미리 계산을 할 수 있음
 
@@ -50,7 +59,10 @@ Which Amazon Web Services (AWS) service or capability can the developer use to a
 - C. IAM roles
 - D. AWS Trusted Advisor
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 5
 
@@ -62,7 +74,10 @@ Which deployment service should be utilized for the application?
 - C. Amazon EC2
 - D. AWS OpsWorks
 
+<details>
+<summary>정답</summary>
 B
+</details>
 
 #### 6 :star:
 
@@ -75,7 +90,10 @@ Which AWS service or feature may be used by the ISV to offer secure access to it
 - C. Internet gateway
 - D. AWS PrivateLink
 
+<details>
+<summary>정답</summary>
 B
+</details>
 
 AWS Client VPN is a fully managed service that provides customers with the ability to securely access AWS and on-premises resources from any location using
 
@@ -88,7 +106,10 @@ Which AWS Cost Management tool provides the most detailed information about your
 - C. AWS Cost and Usage report
 - D. AWS Billing dashboard
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 cost and usage reporsts - 자세하게 리소스/ account별/ 기간별로 분석
 
@@ -108,7 +129,10 @@ Which AWS Trusted Advisor checks are accessible to AWS Basic Support customers? 
 - D. Load balancer optimization
 - E. Large number of rules in an EC2 security groups
 
+<details>
+<summary>정답</summary>
 A, C
+</details>
 
 #### 9
 
@@ -121,7 +145,10 @@ Which of the following services falls under the AWS serverless platform category
 - C. AWS Lambda
 - D. AWS Mobile Hub
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 amazon emr은 hadoop map reduce 기반 분산 데이터 분석 시스템이다.
 
@@ -134,7 +161,10 @@ Which of the following security-related acts is free?
 - C. Accessing forums, blogs, and whitepapers
 - D. Attending AWS classes at a local university
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 11
 
@@ -146,7 +176,10 @@ Which Amazon Web Services (AWS) service should the business use?
 - C. AWS Cost and Usage report
 - D. Amazon Simple Notification Service (Amazon SNS)
 
+<details>
+<summary>정답</summary>
 B
+</details>
 
 #### 12
 
@@ -157,7 +190,10 @@ How does AWS accelerate the provisioning of IT resources?
 - C. It provides the ability to programmatically provision existing resources.
 - D. It automates the resource request process from a company's IT vendor list.
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 13
 
@@ -169,7 +205,10 @@ Which login credentials for the AWS Management Console adhere to security best p
 - D. A secret key
 - E. User name and password
 
+<details>
+<summary>정답</summary>
 B, E
+</details>
 
 sign in to the AWS Management Console
 
@@ -189,7 +228,10 @@ Which cloud computing benefit can a business get by using AWS Regions to expand 
 - C. Economies of scale
 - D. Global reach
 
+<details>
+<summary>정답</summary>
 D
+</details>
 
 #### 15
 
@@ -200,7 +242,10 @@ Which of the following deployment strategies allows clients to completely exchan
 - C. Cloud
 - D. Platform as a service
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 16 :star:
 
@@ -211,7 +256,10 @@ Which service may be used to monitor and get alerts for AWS account root user si
 - C. AWS Trusted Advisor
 - D. AWS IAM
 
+<details>
+<summary>정답</summary>
 A
+</details>
 
 #### 17
 
@@ -224,7 +272,10 @@ This is an illustration of which cloud architecture design principle?
 - C. Automation
 - D. Automatic scaling
 
+<details>
+<summary>정답</summary>
 B
+</details>
 
 #### 18
 
@@ -236,7 +287,10 @@ Which of the following are advantages of using Amazon RDS over an on-premises da
 - D. RDS database compute capacity can be easily scaled.
 - E. RDS inbound traffic control (for example, security groups) is managed by AWS.
 
+<details>
+<summary>정답</summary>
 A, D
+</details>
 
 참고 RDS는 managed 서비스이다(아직 serverless는 아님) 프로비저닝, OS 패치, replica를 통한 scalability, multi az를 통한 dr, 자동 백업 및 복구, storage는 EBS 베이스
 
@@ -249,7 +303,10 @@ How can AWS customers exchange infrastructure costs for operational costs?
 - C. Eliminate the electricity costs that are associated with the hosting of physical servers.
 - D. Use AWS Auto Scaling to dynamically increase and decrease compute resources as needed.
 
+<details>
+<summary>정답</summary>
 D
+</details>
 
 (C의 전기세는 자본비용 아님)
 
@@ -264,7 +321,10 @@ Which Amazon Web Services (AWS) service or functionality should the compliance o
 - C. AWS Support
 - D. AWS Trusted Advisor
 
+<details>
+<summary>정답</summary>
 A
+</details>
 
 #### 21
 
@@ -275,7 +335,10 @@ Which AWS service will be responsible for tracking user activities on AWS?
 - C. AWS CloudTrail
 - D. Amazon CloudWatch
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 22
 
@@ -286,7 +349,10 @@ Which AWS services have automatic data backups by default?
 - C. Amazon ElastiCache for Memcached
 - D. Amazon Elastic File System (Amazon EFS)
 
+<details>
+<summary>정답</summary>
 B
+</details>
 
 #### 23
 
@@ -297,7 +363,10 @@ Which AWS service offers a self-service site for accessing AWS compliance report
 - C. Amazon Inspector
 - D. AWS Artifact
 
+<details>
+<summary>정답</summary>
 D
+</details>
 
 #### 24
 
@@ -308,7 +377,10 @@ Which AWS service or tool keeps track of all AWS resources created?
 - C. AWS CloudTrail
 - D. AWS Application Migration Service (CloudEndure Migration)
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 AWS Config (Rule)도 resource 변경 추적 가능
 
@@ -321,7 +393,10 @@ Which Amazon Web Services (AWS) service should I use to generate a billing alarm
 - C. Amazon CloudWatch
 - D. Amazon QuickSight
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 26
 
@@ -332,7 +407,10 @@ What is a job in Amazon Web Services' Identity and Access Management (IAM) syste
 - C. An entity that defines a set of permissions for use with an AWS resource
 - D. An authentication credential associated with a multi-factor authentication (MFA) token
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 27
 
@@ -343,7 +421,10 @@ What information may users access using AWS Artifact?
 - C. Training materials for AWS services
 - D. A security assessment of the applications deployed in the AWS Cloud
 
+<details>
+<summary>정답</summary>
 A
+</details>
 
 #### 28
 
@@ -356,7 +437,10 @@ Which pricing strategy is most appropriate?
 - C. On-Demand Instances
 - D. Dedicated Hosts
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 29
 
@@ -367,7 +451,10 @@ Which AWS service detects security groups that provide users with unlimited acce
 - C. Amazon CloudWatch
 - D. Amazon Inspector
 
+<details>
+<summary>정답</summary>
 B
+</details>
 
 #### 30
 
@@ -378,7 +465,10 @@ Which of the following is a shared control mechanism between the client and Amaz
 - C. Environmental controls of physical AWS data centers
 - D. Awareness and training
 
+<details>
+<summary>정답</summary>
 D
+</details>
 
 `Shared Control`
 
@@ -401,7 +491,10 @@ Which of the following may be used to restrict access to an Amazon Storage Servi
 - C. AWS Identity and Access Management (IAM) policies
 - D. Security Groups
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 32 :star:
 
@@ -414,7 +507,10 @@ How is this accomplished?
 - C. Use multiple VPCs
 - D. Use Cost Explorer
 
+<details>
+<summary>정답</summary>
 A (그러나 examptopic 답은 B)
+</details>
 
 #### 33
 
@@ -425,7 +521,10 @@ Utilizing AWS Identity and Access Management (IAM) to restrict access to just th
 - C. least privilege access.
 - D. token access.
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 34
 
@@ -436,7 +535,10 @@ Why is it advantageous to utilize Elastic Load Balancers in conjunction with app
 - C. They automatically adjust capacity.
 - D. They are provided at no charge to users.
 
+<details>
+<summary>정답</summary>
 B
+</details>
 
 capacity는 auto scaling
 
@@ -449,7 +551,10 @@ Which free AWS service or tool assists in identifying underused Amazon EC2 insta
 - C. AWS Organizations
 - D. AWS Trusted Advisor
 
+<details>
+<summary>정답</summary>
 D
+</details>
 
 #### 36
 
@@ -461,7 +566,10 @@ Which of the following describes Amazon S3? (Select two.)
 - D. A network file system
 - E. A durable storage system
 
+<details>
+<summary>정답</summary>
 B, E
+</details>
 
 파일이 아닌 오브젝트를 저장하는 것, durable함을 보장함
 
@@ -475,7 +583,10 @@ Which AWS services or features contribute to the reduction of network latency fo
 - D. AWS Direct Connect
 - E. AWS Global Accelerator
 
+<details>
+<summary>정답</summary>
 C, E
+</details>
 
 #### 38
 
@@ -488,7 +599,10 @@ Which AWS service or tool will serve as the foundation for this effort?
 - C. AWS Managed Services
 - D. AWS Service Catalog
 
+<details>
+<summary>정답</summary>
 A
+</details>
 
 The AWS Marketplace enables qualified partners to market and sell their software to AWS Customers
 
@@ -501,7 +615,10 @@ Which Amazon Web Services (AWS) offering provides permanent storage for a file s
 - C. Amazon Elastic Block Store (Amazon EBS)
 - D. Amazon ElastiCache
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 40
 
@@ -513,7 +630,10 @@ Which AWS services can be used to collect information about the activities of an
 - D. AWS CloudHSM
 - E. Amazon CloudWatch
 
+<details>
+<summary>정답</summary>
 C, E
+</details>
 
 #### 41
 
@@ -525,7 +645,10 @@ Which of the following Amazon Web Services (AWS) services is serverless? (Select
 - D. Amazon DynamoDB
 - E. Amazon Redshift
 
+<details>
+<summary>정답</summary>
 A, D
+</details>
 
 #### 42
 
@@ -537,7 +660,10 @@ Which AWS service would manage the deployment automatically and alleviate the de
 - C. AWS Elastic Beanstalk
 - D. AWS CloudFormation
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 43
 
@@ -548,7 +674,10 @@ Which step will provide documentation that will assist a business in determining
 - C. Creating an AWS Support ticket
 - D. Evaluating AWS CloudTrail logs
 
+<details>
+<summary>정답</summary>
 B
+</details>
 
 #### 44 :star:
 
@@ -561,7 +690,10 @@ Which course of action should be followed?
 - C. Purchase the Reserved Instances in individual linked accounts and turn off Reserved Instance sharing from the payer level.
 - D. Enable Reserved Instance sharing in the AWS Billing and Cost Management console.
 
+<details>
+<summary>정답</summary>
 A
+</details>
 
 #### 45
 
@@ -572,7 +704,10 @@ Which AWS feature will result in a lower total cost of ownership (TCO) for the c
 - C. Elastic computing
 - D. Encryption
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 46
 
@@ -583,7 +718,10 @@ Which AWS service simplifies the process of creating and managing AWS users and 
 - C. AWS Identity and Access Management (IAM)
 - D. AWS Firewall Manager
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 47
 
@@ -594,7 +732,10 @@ Among the benefits of migrating infrastructure from an on-premises data center t
 - C. it allows the business to focus on business activities.
 - D. it allows the business to leave servers unpatched.
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 48
 
@@ -605,7 +746,10 @@ Which Amazon VPC feature allows users to monitor IP traffic to and from Amazon E
 - C. Network ACLs
 - D. VPC Flow Logs
 
+<details>
+<summary>정답</summary>
 D
+</details>
 
 #### 49
 
@@ -616,7 +760,10 @@ Which Amazon Web Services (AWS) offering allows customers to deploy infrastructu
 - C. AWS Data Pipeline
 - D. AWS Glue
 
+<details>
+<summary>정답</summary>
 B
+</details>
 
 #### 50
 
@@ -628,7 +775,10 @@ What are some of the benefits of Reserved Instances? (Select two.)
 - D. Customers can upgrade instances as new types become available.
 - E. Customers can reserve capacity in an Availability Zone.
 
+<details>
+<summary>정답</summary>
 A, E
+</details>
 
 #### 51
 
@@ -641,7 +791,10 @@ Which method of buying is the MOST cost-effective?
 - C. Dedicated Instances
 - D. Spot Instances
 
+<details>
+<summary>정답</summary>
 D
+</details>
 
 #### 52
 
@@ -652,7 +805,10 @@ Who is responsible for patching the Amazon RDS guest operating system?
 - C. Managed partners
 - D. AWS Support
 
+<details>
+<summary>정답</summary>
 A
+</details>
 
 #### 53
 
@@ -663,7 +819,10 @@ What services does Amazon CloudFront offer?
 - C. Ability to directly manage traffic globally through a variety of routing types, including latency-based routing, geo DNS, geoproximity, and weighted round robin
 - D. Automatic distribution of incoming application traffic across multiple targets, such as Amazon EC2 instances, containers, IP addresses, and AWS Lambda functions
 
+<details>
+<summary>정답</summary>
 B
+</details>
 
 #### 54
 
@@ -674,7 +833,10 @@ Which security service on AWS detects and categorizes sensitive data or intellec
 - C. Amazon Inspector
 - D. AWS Shield
 
+<details>
+<summary>정답</summary>
 B
+</details>
 
 #### 55
 
@@ -685,7 +847,10 @@ How can a business separate the expenses of production and non-production worklo
 - C. Use Amazon EC2 for non-production workloads and other services for production workloads.
 - D. Use Amazon CloudWatch to monitor the use of services.
 
+<details>
+<summary>정답</summary>
 B
+</details>
 
 #### 56
 
@@ -698,7 +863,10 @@ What is the MOST SIMPLE method of delivering this information?
 - C. Download the IAM credential report, then provide the report to the auditor.
 - D. Download the AWS Trusted Advisor report, then provide the report to the auditor.
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 IAM access advisor도 가능
 
@@ -711,7 +879,10 @@ Utilizing Amazon Elastic Container Service (Amazon ECS) to deconstruct a monolit
 - C. a stateless architecture.
 - D. a stateful architecture.
 
+<details>
+<summary>정답</summary>
 A
+</details>
 
 #### 58 :star:
 
@@ -724,9 +895,12 @@ Which AWS service will be responsible for generating this evaluation report?
 - C. Amazon Macie
 - D. Amazon Inspector
 
-d
+<details>
+<summary>정답</summary>
+D
+</details>
 
-Amazon Inspector is an automated security assessment service that helps improve the security and compliance of applications deployed on AWS
+Amazon Inspector is an automated security assessment service that helps improve the security and compliance of applications deployed on AWS.
 
 #### 59
 
@@ -739,7 +913,10 @@ Which Amazon Web Services (AWS) service may be used?
 - C. Amazon QuickSight
 - D. Amazon Athena
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 60
 
@@ -752,7 +929,10 @@ Which Amazon EC2 price plan is the MOST cost-effective in order to achieve these
 - C. Spot Instances
 - D. Dedicated Instances
 
+<details>
+<summary>정답</summary>
 B
+</details>
 
 #### 61
 
@@ -763,7 +943,10 @@ Which AWS service enables the safe, rapid, and economical migration or transit o
 - C. AWS Migration Hub
 - D. AWS Snowmobile
 
+<details>
+<summary>정답</summary>
 D
+</details>
 
 #### 62
 
@@ -774,7 +957,10 @@ Where can I obtain AWS compliance and certification reports?
 - C. AWS Certificate Manager
 - D. AWS Trusted Advisor
 
+<details>
+<summary>정답</summary>
 A
+</details>
 
 #### 63
 
@@ -787,7 +973,10 @@ Which AWS service is appropriate for this scenario?
 - C. Amazon DynamoDB
 - D. Amazon Redshift
 
+<details>
+<summary>정답</summary>
 C
+</details>
 
 #### 64
 
@@ -800,7 +989,10 @@ Which AWS service is appropriate for this?
 - C. Amazon Aurora
 - D. Amazon Redshift
 
+<details>
+<summary>정답</summary>
 B
+</details>
 
 #### 65
 
@@ -811,7 +1003,10 @@ Which of the following AWS services may be used to administer a database indepen
 - C. AWS Snowmobile
 - D. Amazon Elastic Compute Cloud (Amazon EC2)
 
+<details>
+<summary>정답</summary>
 D
+</details>
 
 #### 66
 
@@ -823,7 +1018,10 @@ Which of the following is an Amazon CloudWatch Logs feature? (Select two.)
 - D. Real-time monitoring
 - E. Adjustable retention
 
+<details>
+<summary>정답</summary>
 D, E
+</details>
 
 sns는  cloudwatch alarm
 
@@ -838,7 +1036,10 @@ Which of the following AWS options would be most appropriate for your business?
 - C. Amazon Kinesis
 - D. Amazon Redshift
 
+<details>
+<summary>정답</summary>
 D
+</details>
 
 #### 68
 
@@ -850,7 +1051,10 @@ Which of the following are AWS Global Accelerator's benefits? (Select two.)
 - D. Decreased latency to reach applications deployed on AWS
 - E. Higher security of data stored on AWS
 
+<details>
+<summary>정답</summary>
 B, D
+</details>
 
 #### 69
 
@@ -862,7 +1066,10 @@ Which of the following are AWS shared responsibility model customer responsibili
 - D. Management of AWS Lambda infrastructure
 - E. Management of network throughput of each AWS Region
 
+<details>
+<summary>정답</summary>
 B, C
+</details>
 
 #### 70
 
@@ -873,4 +1080,7 @@ Which AWS service enables customers to comply with contractual and regulatory da
 - C. AWS Key Management Service (AWS KMS)
 - D. AWS Directory Service
 
+<details>
+<summary>정답</summary>
 B
+</details>
