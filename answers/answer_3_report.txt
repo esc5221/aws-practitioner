@@ -1,23 +1,23 @@
-1 correct:  C            my:  B
-2 correct:  B            my:  A
-6 correct:  C            my:  A
-15 correct:  A           my:  B
-17 correct:  A, D                my:  D, E
-23 correct:  C           my:  B
-25 correct:  C           my:  D
-28 correct:  B           my:  A
-29 correct:  D           my:  A
-31 correct:  A           my:  B
-33 correct:  B           my:  C
-36 correct:  C, E                my:  E
-40 correct:  A, D                my:  A, B
-43 correct:  A           my:  D
-49 correct:  A, E                my:  A, D
-58 correct:  C           my:  D
-59 correct:  B           my:  C
-64 correct:  D           my:  B
-65 correct:  D, E                my:  B, D
-67 correct:  B, D                my:  D, E
+2 correct:  C            my:  B
+3 correct:  B            my:  A
+7 correct:  C            my:  A
+16 correct:  A           my:  B
+18 correct:  A, D                my:  D, E
+24 correct:  C           my:  B
+26 correct:  C           my:  D
+29 correct:  B           my:  A
+30 correct:  D           my:  A
+32 correct:  A           my:  B
+34 correct:  B           my:  C
+37 correct:  C, E                my:  E
+41 correct:  A, D                my:  A, B
+44 correct:  A           my:  D
+50 correct:  A, E                my:  A, D
+59 correct:  C           my:  D
+60 correct:  B           my:  C
+65 correct:  D           my:  B
+66 correct:  D, E                my:  B, D
+68 correct:  B, D                my:  D, E
 ==================================================
 total wrong answer:  21
 accuracy: 70.00%
